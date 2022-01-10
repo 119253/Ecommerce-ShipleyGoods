@@ -62,4 +62,4 @@ Cart
 
 ## Comments
 
-Most features work as intended. However, there are some minor features which are still under development. Feel free to customise the website to your needs :)
+Most features work as intended. However, there are some minor features which are still under development. Feel free to customise the website to your needs :) 
