@@ -25,6 +25,8 @@ This is an E-commerce website featuring Laptops, Desktop PCs & Tablets. It allow
 - Delete items from cart
 - Edit quantity in cart
 - Submit basket (to be reviewed by admin)
+
+
 **Admin Dashboard**
   - Total Sales £
   - Number of products 
